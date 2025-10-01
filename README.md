@@ -57,14 +57,13 @@ Git • GitHub • VS Code • Google Colab • Jupyter • Kaggle
 Matplotlib • Seaborn • Flask • Streamlit • HTML5 • CSS3
 
 # lt's Connect
-🔗 LinkedIn : www.linkedin.com/in/anand-kumbar07
+🔗 LinkedIn : https://www.linkedin.com/in/madhura-chilakandi-5ab103319
 
 🐙 GitHub : https://github.com/Madhurac05
 
 📧 Email Me : madhurachilakandi2004@gmail.com
 
-                                         ⚡ “Build. Break. Innovate.” 🚀 
-
+                                      
 
 <!--
 **Anandck07/Anandck07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
